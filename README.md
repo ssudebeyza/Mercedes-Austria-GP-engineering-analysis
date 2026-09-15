@@ -14,10 +14,9 @@ Rather than treating telemetry as a way to simply determine who was faster, the 
 The complete performance-engineering investigation is provided in two parts:
 
 ### Part 1 — Introduction, Methodology and Circuit Engineering Context
-[Read Report Part 1](report/MercedesAustriaGPreportpart1.docx)
-
+[Read Report Part 1]C:\Users\sudeb\OneDrive\Desktop\Austria 2026 mercedes\report\mercedesaustriareportpart1.pdf
 ### Part 2 — Race Performance, Telemetry Analysis and Engineering Recommendations
-[Read Report Part 2](report/MercedesAustriaGPreportpart2.docx)
+[Read Report Part 2]C:\Users\sudeb\OneDrive\Desktop\Austria 2026 mercedes\report\mercedesaustriareportpart2.pdf
 
 Together, the two documents contain the complete investigation, from the research methodology and circuit context through race-level analysis, selected-lap telemetry, corner-level diagnostics, engineering recommendations and conclusions.
 
