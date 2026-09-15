@@ -14,7 +14,7 @@ Rather than treating telemetry as a way to simply determine who was faster, the 
 The complete performance-engineering investigation is provided in two parts:
 
 ### Part 1 — Introduction, Methodology and Circuit Engineering Context
-[Read Report Part 2](report/mercedesaustriareportpart1.pdf)
+[Read Report Part 1](report/mercedesaustriareportpart1.pdf)
 ### Part 2 — Race Performance, Telemetry Analysis and Engineering Recommendations
 [Read Report Part 2](report/mercedesaustriareportpart2.pdf)
 
