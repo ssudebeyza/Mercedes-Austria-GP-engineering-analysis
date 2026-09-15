@@ -11,14 +11,15 @@ Rather than treating telemetry as a way to simply determine who was faster, the 
 
 ## Full Engineering Report
 
-The complete 53-page performance-engineering report is included in this repository.
+The complete performance-engineering investigation is provided in two parts:
 
-📄 [Read the Full Performance Engineering Report](report/Russell_vs_Antonelli_2026_Austrian_GP_Performance_Engineering_Report.pdf)
+### Part 1 — Introduction, Methodology and Circuit Engineering Context
+[Read Report Part 1](report/MercedesAustriaGPreportpart1.docx)
 
-The report contains the complete methodology, race-performance investigation, stint and sector analysis, selected-lap telemetry investigation, corner-level diagnostics, engineering recommendations, test planning, limitations and conclusions.
+### Part 2 — Race Performance, Telemetry Analysis and Engineering Recommendations
+[Read Report Part 2](report/ercedesAustriaGPreportpart1.docx)
 
-The Python scripts in this repository reproduce and support the quantitative analyses and figures developed throughout the investigation.
-
+Together, the two documents contain the complete investigation, from the research methodology and circuit context through race-level analysis, selected-lap telemetry, corner-level diagnostics, engineering recommendations and conclusions.
 
 ## Project Objective
 
