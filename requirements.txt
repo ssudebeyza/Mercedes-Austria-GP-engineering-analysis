@@ -1,0 +1,9 @@
+# Formula 1 telemetry and session data
+fastf1>=3.6.0
+
+# Data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Plotting
+matplotlib>=3.8.0
