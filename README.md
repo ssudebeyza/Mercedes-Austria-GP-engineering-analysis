@@ -16,7 +16,7 @@ The complete performance-engineering investigation is provided in two parts:
 ### Part 1 — Introduction, Methodology and Circuit Engineering Context
 [Read Report Part 1](report/mercedesaustriareportpart1.pdf)
 ### Part 2 — Race Performance, Telemetry Analysis and Engineering Recommendations
-[Read Report Part 2](report/mercedesaustriareportpart2.pdf)
+[Read Report Part 2](https://raw.githubusercontent.com/ssudebeyza/Mercedes-Austria-GP-engineering-analysis/main/report/mercedesaustriareportpart2.pdf)
 
 Together, the two documents contain the complete investigation, from the research methodology and circuit context through race-level analysis, selected-lap telemetry, corner-level diagnostics, engineering recommendations and conclusions.
 
