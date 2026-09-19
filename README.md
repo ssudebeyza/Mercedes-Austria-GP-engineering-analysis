@@ -320,6 +320,13 @@ matplotlib>=3.8.0
 
 Python standard-library modules such as pathlib, subprocess, sys and time do not require separate installation.
 
+## Data Access Note
+
+This project uses FastF1 to access Formula 1 timing and telemetry data. As of 2026, the Formula 1 live-timing endpoint may return HTTP 403 errors from some cloud or datacenter environments, including Google Colab. This is a data-access limitation rather than an issue with the analysis scripts.
+
+If session.load() fails, try running the project from a local Python environment and enable the FastF1 cache before loading the session. A previously populated cache can also be used where direct access to the live-timing endpoint is unavailable.
+
+The reported analysis results have also been independently reproduced using an alternative mirror of the same underlying timing data.
 
 ## Running the Analysis
 
