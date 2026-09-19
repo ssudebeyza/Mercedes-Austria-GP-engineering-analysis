@@ -281,7 +281,7 @@ Clone the repository:
 
 ```bash
 git clone <repository-url>
-cd austrian-gp-performance-analysis
+cd Austria 2026 mercedes
 ```
 
 Create a virtual environment:
@@ -341,13 +341,13 @@ The main script runs the individual analyses sequentially.
 Each investigation can also be executed independently. For example:
 
 ```bash
-python 16_t6_analysis.py
+python 16_t6analysis.py
 ```
 
 or:
 
 ```bash
-python 19_t9_t10_analysis.py
+python 19_t9t10analysis.py
 ```
 
 
